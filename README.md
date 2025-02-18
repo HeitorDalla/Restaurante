@@ -1,11 +1,11 @@
 # Experiência Gastronômica
 
 ## Grupo
-* Lucas Henrique Moraes Costa
-* Heitor Giussani Dalla Villa
-* Jean Carlos Isidoro
-* Joao Victor Carvalho da Silva
-* Rodrigo Oliveira da Cruz
+* Lucas Henrique Moraes Costa - https://github.com/lucashmc/ATIVGRUPO-1-
+* Heitor Giussani Dalla Villa - https://github.com/HeitorDalla/Restaurante
+* Jean Carlos Isidoro - https://github.com/jean155-jj/AtividadeDesenvolvimento
+* Joao Victor Carvalho da Silva - 
+* Rodrigo Oliveira da Cruz - https://github.com/RocOliveira/TrabalhoGastronomico
 
 
 ## Restaurante Nacho Man
